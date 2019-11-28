@@ -22,5 +22,7 @@ New line.
 
 ### Copyright
 
-Git Copyright
+Git Copyrigh
+
+----------------------------------
 
